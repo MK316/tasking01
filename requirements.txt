@@ -1,0 +1,5 @@
+streamlit
+pandas
+gspread
+gtts
+oauth2client.service_account
